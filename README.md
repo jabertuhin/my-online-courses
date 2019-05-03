@@ -43,6 +43,7 @@
 | Course Name   | Platform        | Course Duration |    Progress     |
 | ------------- | :-------------: | :-------------: | :-------------: |
 | [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803) | Udacity | 7 Lessons | [##########] 100% |
+| [Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283) | Udacity | 4 Lessons | [##########] 100% |
 |       |  |          |           |
 |       |  |          |           |
 |       |  |          |           |
@@ -56,9 +57,8 @@
 
 | Course Name   | Platform        | Course Duration |    Progress     |
 | ------------- | :-------------: | :-------------: | :-------------: |
-| [How to Learn Math: For Students](https://lagunita.stanford.edu/courses/Education/EDUC115-S/Spring2014/about) | Stanford Lagunita | 6 Lessons | [##########] [Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/dc8ee02347414478a6ceade84cc53a78/Statement.pdf)|
-|       |  |          |           |
-|       |  |          |           |
+| [How to Learn Math: For Students](https://lagunita.stanford.edu/courses/Education/EDUC115-S/Spring2014/about) | Stanford Lagunita | 6 Lessons | [##########] 100%, [Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/dc8ee02347414478a6ceade84cc53a78/Statement.pdf)|
+| [Shell Workshop](https://classroom.udacity.com/courses/ud206) | Udacity | 1 Lesson | [##########] 100% |
 |       |  |          |           |
 |       |  |          |           |
 |       |  |          |           |
