@@ -16,7 +16,6 @@
 | [Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python) | Datacamp | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/80e64275d4614e3d2c734f425045e864e7a6c338) |
 | [Software Engineering for Data Scientists in Python](https://www.datacamp.com/courses/software-engineering-for-data-scientists-in-python) | Datacamp | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/d55afdbd008c9217424d7836ac7ae46b7ceb0017) |
 | [Cleaning Data in Python](https://www.datacamp.com/courses/cleaning-data-in-python) | Datacamp | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/5cfc4edf70c24139bad74ea9a03fdf33a127589f) |
-| []() |  | []() |
 
 
 ### Enrolled in -
@@ -41,8 +40,9 @@
 
 ## Software Developmet:
 
-| Course Name   | Platform      | Course Duration |    Progress     |
-| ------------- |:-------------:| :-------------: | :-------------: |
+| Course Name   | Platform        | Course Duration |    Progress     |
+| ------------- | :-------------: | :-------------: | :-------------: |
+| [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803) | Udacity | 7 Lessons | [##########] 100% |
 |       |  |          |           |
 |       |  |          |           |
 |       |  |          |           |
@@ -50,13 +50,13 @@
 |       |  |          |           |
 |       |  |          |           |
 |       |  |          |           |
-|       |  |          |           |
+
 
 ## Others:
 
-| Course Name   | Platform      | Course Duration |    Progress     |
-| ------------- |:-------------:| :-------------: | :-------------: |
-|       |  |          |           |
+| Course Name   | Platform        | Course Duration |    Progress     |
+| ------------- | :-------------: | :-------------: | :-------------: |
+| [How to Learn Math: For Students](https://lagunita.stanford.edu/courses/Education/EDUC115-S/Spring2014/about) | Stanford Lagunita | 6 Lessons | [##########] [Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/dc8ee02347414478a6ceade84cc53a78/Statement.pdf)|
 |       |  |          |           |
 |       |  |          |           |
 |       |  |          |           |
