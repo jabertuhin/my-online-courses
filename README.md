@@ -44,7 +44,7 @@
 | ------------- | :-------------: | :-------------: | :-------------: |
 | [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803) | Udacity | 7 Lessons | [##########] 100% |
 | [Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283) | Udacity | 4 Lessons | [##########] 100% |
-|       |  |          |           |
+| [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) | Udacity | 5 Lessons  | [##########] 100% |
 |       |  |          |           |
 |       |  |          |           |
 |       |  |          |           |
