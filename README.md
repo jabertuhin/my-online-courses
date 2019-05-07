@@ -20,13 +20,13 @@
 
 ### Enrolled in -
 
-| Course Name   | Platform      | Course Duration |    Progress     |
-| ------------- |:-------------:| :-------------: | :-------------: |
-|       |  |          |           |
-|       |  |          |           |
-|       |  |          |           |
-|       |  |          |           |
-|       |  |          |           |
+| Course Name   | Platform      | Course Duration |
+| ------------- |:-------------:| :-------------: |
+| [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198) | Udacity | 6 Lessons |
+| [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) |  |          |
+| [Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981) | Udacity | 5 Lessons |
+| [Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980) | Udacity | 4 Lessons |
+| [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388) | Udacity | 5 Lessons |
 |       |  |          |           |
 |       |  |          |           |
 |       |  |          |           |
@@ -35,8 +35,9 @@
 
 | Course Name   | Platform      | Course Duration | 
 | ------------- |:-------------:| :--------------:|
-|       |  |          |
-|       |  |          |
+| [Data Wrangling with MongoDB](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032) | Udacity | 6 Lessons |
+| [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) | Udacity | 14 Lessons |
+|  |  |  |
 
 ## Software Developmet:
 
@@ -50,7 +51,6 @@
 |       |  |          |           |
 |       |  |          |           |
 |       |  |          |           |
-|       |  |          |           |
 
 
 ## Others:
@@ -59,6 +59,7 @@
 | ------------- | :-------------: | :-------------: | :-------------: |
 | [How to Learn Math: For Students](https://lagunita.stanford.edu/courses/Education/EDUC115-S/Spring2014/about) | Stanford Lagunita | 6 Lessons | [##########] 100%, [Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/dc8ee02347414478a6ceade84cc53a78/Statement.pdf)|
 | [Shell Workshop](https://classroom.udacity.com/courses/ud206) | Udacity | 1 Lesson | [##########] 100% |
+| [Refresh Your Resume](https://www.udacity.com/course/refresh-your-resume--ud243) | Udacity | 1 Lesson | [##########] 100% |
 |       |  |          |           |
 |       |  |          |           |
 |       |  |          |           |
