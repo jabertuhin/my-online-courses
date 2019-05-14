@@ -37,7 +37,19 @@
 | ------------- |:-------------:| :--------------:|
 | [Data Wrangling with MongoDB](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032) | Udacity | 6 Lessons |
 | [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) | Udacity | 14 Lessons |
+| [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) | Udacity | 8 Lessons |
+| [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198) | Udacity | 6 Lessons |
+| [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) | Udacity | 7 Lessons |
+| [Intro to Hadoop and MapReduce](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617) | Udacity | 4 Lessons |
+| [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101) | Udacity | 7 Lessons |
+| [Statistics](https://www.udacity.com/course/statistics--st095) | Udacity | 6 Lessons |
+| [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | Udacity | 7 Lessons |
 |  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
 
 ## Software Developmet:
 
