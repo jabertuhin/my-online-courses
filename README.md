@@ -26,7 +26,6 @@
 | [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) |  |          |
 | [Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981) | Udacity | 5 Lessons |
 | [Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980) | Udacity | 4 Lessons |
-| [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388) | Udacity | 5 Lessons |
 |       |  |          |           |
 |       |  |          |           |
 |       |  |          |           |
@@ -44,8 +43,8 @@
 | [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101) | Udacity | 7 Lessons |
 | [Statistics](https://www.udacity.com/course/statistics--st095) | Udacity | 6 Lessons |
 | [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | Udacity | 7 Lessons |
-|  |  |  |
-|  |  |  |
+| [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | Coursera | 5 Courses(3 months) |
+| [Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml) | Coursera | 7 Courses |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -58,12 +57,15 @@
 | [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803) | Udacity | 7 Lessons | [##########] 100% |
 | [Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283) | Udacity | 4 Lessons | [##########] 100% |
 | [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) | Udacity | 5 Lessons  | [##########] 100% |
-|       |  |          |           |
-|       |  |          |           |
-|       |  |          |           |
-|       |  |          |           |
-|       |  |          |           |
-
+| [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388) | Udacity | 5 Lessons | [##########] 100% |
+| [Fundamentals of Professional Open Source Management (LFC210)](https://training.linuxfoundation.org/resources/free-courses/fundamentals-of-professional-open-source-management/) | Linux Foundation | 10 weeks | to do |
+| [A Beginner's Guide to Open Source Software Development (LFC102)](https://training.linuxfoundation.org/resources/free-courses/beginner-guide-to-oss-development2/) | Linux Foundation | 5 weeks | to do |
+| [Compliance Basics for Developers (LFS191)](https://training.linuxfoundation.org/resources/free-courses/compliance-basics-for-developers/) | Linux Foundation | 5 weeks | to do |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 
 ## Others:
 
