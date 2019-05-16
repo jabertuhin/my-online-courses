@@ -45,9 +45,10 @@
 | [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | Udacity | 7 Lessons |
 | [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | Coursera | 5 Courses(3 months) |
 | [Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml) | Coursera | 7 Courses |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| [Differential Equations in Action](https://www.udacity.com/course/differential-equations-in-action--cs222) | Udacity | 7 Lessons |
+| [Fast.ai course - Deep Learning 2018](https://www.youtube.com/playlist?list=PLCdvEQLhYkYmKTKWTrH7bHtQ1CsKZaQBl) | fast.ai(Youtube) | 14 Lectures |
+| [mlcourse.ai](https://mlcourse.ai/) | OpenDS(Youtube) | 10 Lectures |
+| [Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY) | fast.ai(youtube) | 10 Lectures |
 
 
 ## Software Developmet:
@@ -74,7 +75,6 @@
 | [How to Learn Math: For Students](https://lagunita.stanford.edu/courses/Education/EDUC115-S/Spring2014/about) | Stanford Lagunita | 6 Lessons | [##########] 100%, [Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/dc8ee02347414478a6ceade84cc53a78/Statement.pdf)|
 | [Shell Workshop](https://classroom.udacity.com/courses/ud206) | Udacity | 1 Lesson | [##########] 100% |
 | [Refresh Your Resume](https://www.udacity.com/course/refresh-your-resume--ud243) | Udacity | 1 Lesson | [##########] 100% |
-|       |  |          |           |
 |       |  |          |           |
 |       |  |          |           |
 |       |  |          |           |
