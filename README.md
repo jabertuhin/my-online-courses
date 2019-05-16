@@ -75,6 +75,7 @@
 | [How to Learn Math: For Students](https://lagunita.stanford.edu/courses/Education/EDUC115-S/Spring2014/about) | Stanford Lagunita | 6 Lessons | [##########] 100%, [Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/dc8ee02347414478a6ceade84cc53a78/Statement.pdf)|
 | [Shell Workshop](https://classroom.udacity.com/courses/ud206) | Udacity | 1 Lesson | [##########] 100% |
 | [Refresh Your Resume](https://www.udacity.com/course/refresh-your-resume--ud243) | Udacity | 1 Lesson | [##########] 100% |
+| [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) | Udacity | 15 Lessons | [#.........] |
 |       |  |          |           |
 |       |  |          |           |
 |       |  |          |           |
