@@ -26,6 +26,7 @@
 | [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) | Udacity | 8 Lessons |
 | [Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981) | Udacity | 5 Lessons |
 | [Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980) | Udacity | 4 Lessons |
+| [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) | Edx | 18 weeks |
 |       |  |          |
 |       |  |          |
 |       |  |          |
