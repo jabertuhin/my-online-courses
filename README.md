@@ -23,16 +23,16 @@
 | Course Name   | Platform      | Course Duration |
 | ------------- |:-------------:| :-------------: |
 | [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198) | Udacity | 6 Lessons |
-| [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) |  |          |
+| [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) | Udacity | 8 Lessons |
 | [Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981) | Udacity | 5 Lessons |
 | [Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980) | Udacity | 4 Lessons |
-|       |  |          |           |
-|       |  |          |           |
-|       |  |          |           |
+|       |  |          |
+|       |  |          |
+|       |  |          |
 
 ### To do courses -
 
-| Course Name   | Platform      | Course Duration | 
+| Course Name   | Platform      | Course Duration |
 | ------------- |:-------------:| :--------------:|
 | [Data Wrangling with MongoDB](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032) | Udacity | 6 Lessons |
 | [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) | Udacity | 14 Lessons |
@@ -49,6 +49,12 @@
 | [Fast.ai course - Deep Learning 2018](https://www.youtube.com/playlist?list=PLCdvEQLhYkYmKTKWTrH7bHtQ1CsKZaQBl) | fast.ai(Youtube) | 14 Lectures |
 | [mlcourse.ai](https://mlcourse.ai/) | OpenDS(Youtube) | 10 Lectures |
 | [Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY) | fast.ai(youtube) | 10 Lectures |
+| [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) | Youtube | 35 Lessons |
+| [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | Edx | 12 weeks |
+| [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | Edx | 15 weeks |
+| [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | Edx | 8 weeks |
+| [Calculus Applied!](https://www.edx.org/course/calculus-applied) | Edx | 8 weeks |
+| [Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics) | Edx( [MIT 18.650 Statistics for Applications, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)) | 16 weeks |
 
 
 ## Software Developmet:
@@ -57,7 +63,7 @@
 | ------------- | :-------------: | :-------------: | :-------------: |
 | [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803) | Udacity | 7 Lessons | [##########] 100% |
 | [Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283) | Udacity | 4 Lessons | [##########] 100% |
-| [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) | Udacity | 5 Lessons  | [##########] 100% |
+| [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) | Udacity | 5 Lessons | [##########] 100% |
 | [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388) | Udacity | 5 Lessons | [##########] 100% |
 | [Fundamentals of Professional Open Source Management (LFC210)](https://training.linuxfoundation.org/resources/free-courses/fundamentals-of-professional-open-source-management/) | Linux Foundation | 10 weeks | to do |
 | [A Beginner's Guide to Open Source Software Development (LFC102)](https://training.linuxfoundation.org/resources/free-courses/beginner-guide-to-oss-development2/) | Linux Foundation | 5 weeks | to do |
